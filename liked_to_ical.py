@@ -265,6 +265,13 @@ def main() -> None:
     matched = match_schedule_to_liked(schedule, liked_artists)
     print(f"Matched shows: {len(matched)}")
 
+    matched_artists = {e["matched_artist"] for e in matched}
+    not_found = sorted(liked_artists - matched_artists)
+    if not_found:
+        print(f"Liked artists not found in schedule ({len(not_found)}):")
+        for artist in not_found:
+            print(f"  - {artist}")
+
     if not matched:
         print("No matching shows. Exiting.")
         raise SystemExit(0)
