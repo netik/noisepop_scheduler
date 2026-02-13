@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Noise Pop Liked Shows//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Noise Pop 2026 – Liked Bands
+BEGIN:VEVENT
+UID:noisepop2026-0-20260219T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260219T200000
+DTEND;TZID=America/Los_Angeles:20260219T230000
+SUMMARY:TOBACCO at Public Works
+DESCRIPTION:Band: TOBACCO\nVenue: Public Works\nAddress: 161 Erie St\, San Francisco\, CA 94103
+LOCATION:161 Erie St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-1-20260221T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260221T200000
+DTEND;TZID=America/Los_Angeles:20260221T230000
+SUMMARY:Giraffage + Chrome Sparks at Public Works
+DESCRIPTION:Band: Giraffage + Chrome Sparks\nVenue: Public Works\nAddress: 161 Erie St\, San Francisco\, CA 94103
+LOCATION:161 Erie St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-2-20260221T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260221T200000
+DTEND;TZID=America/Los_Angeles:20260221T230000
+SUMMARY:Death Valley Girls at Kilowatt
+DESCRIPTION:Band: Death Valley Girls\nVenue: Kilowatt\nAddress: 3160 16th St\, San Francisco\, CA 94103
+LOCATION:3160 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-3-20260222T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260222T200000
+DTEND;TZID=America/Los_Angeles:20260222T230000
+SUMMARY:Wisp at Great American Music Hall
+DESCRIPTION:Band: Wisp\nVenue: Great American Music Hall\nAddress: 859 O'Farrell St\, San Francisco\, CA 94109
+LOCATION:859 O'Farrell St\, San Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-4-20260223T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260223T200000
+DTEND;TZID=America/Los_Angeles:20260223T230000
+SUMMARY:The Joy Formidable at Swedish American Hall
+DESCRIPTION:Band: The Joy Formidable\nVenue: Swedish American Hall\nAddress: 2174 Market St\, San Francisco\, CA 94114
+LOCATION:2174 Market St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-5-20260224T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260224T200000
+DTEND;TZID=America/Los_Angeles:20260224T230000
+SUMMARY:Vortxz at Brick & Mortar Music Hall
+DESCRIPTION:Band: Vortxz\nVenue: Brick & Mortar Music Hall\nAddress: 1710 Mission St\, San Francisco\, CA 94103
+LOCATION:1710 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-6-20260225T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260225T200000
+DTEND;TZID=America/Los_Angeles:20260225T230000
+SUMMARY:Niis at Kilowatt
+DESCRIPTION:Band: Niis\nVenue: Kilowatt\nAddress: 3160 16th St\, San Francisco\, CA 94103
+LOCATION:3160 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-7-20260225T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260225T200000
+DTEND;TZID=America/Los_Angeles:20260225T230000
+SUMMARY:BEL at Cafe Du Nord
+DESCRIPTION:Band: BEL\nVenue: Cafe Du Nord\nAddress: 2170 Market St\, San Francisco\, CA 94114
+LOCATION:2170 Market St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-8-20260226T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260226T200000
+DTEND;TZID=America/Los_Angeles:20260226T230000
+SUMMARY:Shannon Shaw & Friends at KQED Live at KQED HQ
+DESCRIPTION:Band: Shannon Shaw & Friends at KQED Live\nVenue: KQED HQ\nAddress: 2601 Mariposa St\, San Francisco\, CA 94110
+LOCATION:2601 Mariposa St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-9-20260226T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260226T200000
+DTEND;TZID=America/Los_Angeles:20260226T230000
+SUMMARY:Carpool Tunnel at Bottom of the Hill
+DESCRIPTION:Band: Carpool Tunnel\nVenue: Bottom of the Hill\nAddress: 1233 17th St\, San Francisco\, CA 94107
+LOCATION:1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-10-20260226T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260226T200000
+DTEND;TZID=America/Los_Angeles:20260226T230000
+SUMMARY:Pinback + Bayonne at The UC Theatre
+DESCRIPTION:Band: Pinback + Bayonne\nVenue: The UC Theatre\nAddress: 2036 University Ave\, Berkeley\, CA 94704
+LOCATION:2036 University Ave\, Berkeley\, CA 94704
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-11-20260227T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260227T200000
+DTEND;TZID=America/Los_Angeles:20260227T230000
+SUMMARY:Jamie Fine at Popscene at Brick & Mortar Music Hall
+DESCRIPTION:Band: Jamie Fine at Popscene\nVenue: Brick & Mortar Music Hall\nAddress: 1710 Mission St\, San Francisco\, CA 94103
+LOCATION:1710 Mission St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-12-20260227T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260227T200000
+DTEND;TZID=America/Los_Angeles:20260227T230000
+SUMMARY:clipping. at The UC Theatre
+DESCRIPTION:Band: clipping.\nVenue: The UC Theatre\nAddress: 2036 University Ave\, Berkeley\, CA 94704
+LOCATION:2036 University Ave\, Berkeley\, CA 94704
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-13-20260227T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260227T200000
+DTEND;TZID=America/Los_Angeles:20260227T230000
+SUMMARY:Tortoise - Night 1 - SOLD OUT at Great American Music Hall
+DESCRIPTION:Band: Tortoise - Night 1 - SOLD OUT\nVenue: Great American Music Hall\nAddress: 859 O'Farrell St\, San Francisco\, CA 94109
+LOCATION:859 O'Farrell St\, San Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-14-20260227T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260227T200000
+DTEND;TZID=America/Los_Angeles:20260227T230000
+SUMMARY:Lyrics Born at Gray Area
+DESCRIPTION:Band: Lyrics Born\nVenue: Gray Area\nAddress: 2665 Mission St\, San Francisco\, CA 94110
+LOCATION:2665 Mission St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-15-20260227T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260227T200000
+DTEND;TZID=America/Los_Angeles:20260227T230000
+SUMMARY:Shannon Shaw at Kilowatt
+DESCRIPTION:Band: Shannon Shaw\nVenue: Kilowatt\nAddress: 3160 16th St\, San Francisco\, CA 94103
+LOCATION:3160 16th St\, San Francisco\, CA 94103
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-16-20260228T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260228T200000
+DTEND;TZID=America/Los_Angeles:20260228T230000
+SUMMARY:The Family Crest at Swedish American Hall
+DESCRIPTION:Band: The Family Crest\nVenue: Swedish American Hall\nAddress: 2174 Market St\, San Francisco\, CA 94114
+LOCATION:2174 Market St\, San Francisco\, CA 94114
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-17-20260228T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260228T200000
+DTEND;TZID=America/Los_Angeles:20260228T230000
+SUMMARY:Tortoise - Night 2 - SOLD OUT at Great American Music Hall
+DESCRIPTION:Band: Tortoise - Night 2 - SOLD OUT\nVenue: Great American Music Hall\nAddress: 859 O'Farrell St\, San Francisco\, CA 94109
+LOCATION:859 O'Farrell St\, San Francisco\, CA 94109
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-18-20260228T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260228T200000
+DTEND;TZID=America/Los_Angeles:20260228T230000
+SUMMARY:Illuminati Hotties play FREE IH - SOLD OUT at Bottom of the Hill
+DESCRIPTION:Band: Illuminati Hotties play FREE IH - SOLD OUT\nVenue: Bottom of the Hill\nAddress: 1233 17th St\, San Francisco\, CA 94107
+LOCATION:1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-19-20260228T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260228T200000
+DTEND;TZID=America/Los_Angeles:20260228T230000
+SUMMARY:Jay Som at Gray Area
+DESCRIPTION:Band: Jay Som\nVenue: Gray Area\nAddress: 2665 Mission St\, San Francisco\, CA 94110
+LOCATION:2665 Mission St\, San Francisco\, CA 94110
+END:VEVENT
+BEGIN:VEVENT
+UID:noisepop2026-20-20260228T200000@liked
+DTSTART;TZID=America/Los_Angeles:20260228T200000
+DTEND;TZID=America/Los_Angeles:20260228T230000
+SUMMARY:illuminati hotties Early Show at Bottom of the Hill
+DESCRIPTION:Band: illuminati hotties Early Show\nVenue: Bottom of the Hill\nAddress: 1233 17th St\, San Francisco\, CA 94107
+LOCATION:1233 17th St\, San Francisco\, CA 94107
+END:VEVENT
+END:VCALENDAR
